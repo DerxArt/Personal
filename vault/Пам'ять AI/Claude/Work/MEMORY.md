@@ -1,0 +1,5 @@
+- [Job-search voice rules](feedback_job_search_voice.md) — no em-dashes/arrows, cover letters in Artur's casual LinkedIn tone
+- [Job-search process](feedback_job_search_process.md) — screen company first, deep-dive per role, LinkedIn touchpoints, no "any update" pings, track rejecting recruiters long-term
+- [Pipeline rejection rules](feedback_pipeline_rejection_rules.md) — deadline/14-day rules, check all Djinni buckets
+- [Obsidian vault](reference_obsidian_vault.md) — vault path + which notes hold experience, sales playbooks, posts
+- [Concrete case answers](feedback_concrete_case_answers.md) — test cases: dated steps, real phrasing, tie to own experience, no generic frameworks

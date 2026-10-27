@@ -1,0 +1,1 @@
+- [TypeSafe API key location](typesafe_api_key_location.md) — key lives in jev-hub/.env, confirmed working 2026-09-28

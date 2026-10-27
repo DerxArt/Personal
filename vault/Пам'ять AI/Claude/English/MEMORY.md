@@ -1,0 +1,2 @@
+- [Grammar weak spot: tenses](grammar-weak-spot-tenses.md) — tenses are the main gap; wants exercises/tests/schemes; Tense Gym artifact built
+- [Act, don't dig](working-style-act-dont-dig.md) — he interrupts long log-digging and web scraping; build from his stated pattern fast

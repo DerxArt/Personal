@@ -1,0 +1,4 @@
+- [Показувати оцінки Jev](show-jev-scores.md) — після кожного запиту до Jev давати таблицю rel/sens/comm і хто пройшов
+- [Ролик «Аргументи закінчились»](project-ai-video-no-excuses.md) — сценарій готовий, чекаємо зйомку S1-S5 і AI-кліпи
+- [Відео Sone для TikTok](project-sone-tiktok-videos.md) — формати, шаблон v2, де файли, що чекає
+- [Mundus travel reels](project-mundus-travel-reels.md) — 10 рілсів з фото подорожей (50 фрагментів Wan локально), збір у reels_travel, далі вручну на Drive
